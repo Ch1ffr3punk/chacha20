@@ -18,7 +18,8 @@ Use input/output redirection for files.
  The key must be 32 hex bytes (64 characters) long.  
  The nonce must be 12 hex bytes (24 characters) long.  
 
-For nonce creation, I recommend my nora program.  
+For nonce creation, I recommend my [nora](https://github.com/Ch1ffr3punk/nora) program.  
+
 
 
 
