@@ -14,8 +14,9 @@ Use input/output redirection for files.
   Encryption: chacha20 key.hex nonce.hex < plaintext.txt > encrypted.bin  
   Decryption: chacha20 key.hex nonce.hex < encrypted.bin > decrypted.txt  
 
-*Note:*
- The key must be 32 hex bytes (64 characters) long.
- The nonce must be 12 hex bytes (24 characters) long.
+*Note:*  
+ The key must be 32 hex bytes (64 characters) long.  
+ The nonce must be 12 hex bytes (24 characters) long.  
 
-For nonce creation, I recommend my nora program.
+For nonce creation, I recommend my nora program.  
+
