@@ -1,7 +1,7 @@
 # ChaCha20 encryption/decryption tool  
 
 ## Usage:  
-  $ chacha20 <keyfile> <noncefile> < infile > outfile  
+$ chacha20 \<keyfile\> \<noncefile\> < infile > outfile  
 
 ## Arguments:  
   keyfile    Path to the file  
@@ -19,6 +19,7 @@ Use input/output redirection for files.
  The nonce must be 12 hex bytes (24 characters) long.  
 
 For nonce creation, I recommend my [nora](https://github.com/Ch1ffr3punk/nora) program.  
+
 
 
 
